@@ -1,9 +1,19 @@
-.vagrant
-/cookbooks
+*.class
 
-# Bundler
-bin/*
-.bundle/*
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
-.kitchen/
-.kitchen.local.yml
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+target
+.settings
+.classpath
+.project
+.buildpath
+.idea
+*.iml
