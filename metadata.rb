@@ -1,4 +1,4 @@
-name             'chef-repo'
+name             'helloworld-chef-repo'
 maintainer       'at&t'
 maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
